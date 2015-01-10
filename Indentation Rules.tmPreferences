@@ -5,7 +5,7 @@
   <key>name</key>
   <string>Indentation Rules</string>
   <key>scope</key>
-  <string>source.sml</string>
+  <string>source.ur</string>
   <key>settings</key>
   <dict>
     <key>decreaseIndentPattern</key>
@@ -14,6 +14,6 @@
     <string>^(?!\(\*).*(\b(and|case|do|else|handle|in|let|local|fun|functor|sig|struct|then|with)\b(?!.*\b(end)\b.*))</string>
   </dict>
   <key>uuid</key>
-  <string>78cd75f7-310b-4a6a-86ac-b015cdd714a1</string>
+  <string>65be91f0-98df-11e4-b8aa-123b93f75cba</string>
 </dict>
 </plist>
