@@ -4,6 +4,6 @@
 	| ${4:pattern2} => ${5:body2}
 ]]></content>
     <tabTrigger>case</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'case' pattern matching</description>
+    <scope>source.ur</scope>
+    <description>UrWeb 'case' pattern matching</description>
 </snippet>
