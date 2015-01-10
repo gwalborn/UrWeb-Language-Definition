@@ -1,6 +1,6 @@
 {
     "cmd": ["urweb", "$file_base_name"],
-    "selector": "source.sml",
+    "selector": "source.ur",
     "working_dir": "$file_path",
 
     "file_regex": "(.+):([0-9]+)\\.([0-9]+)(?:\\-[0-9]+\\.[0-9]+)? (.+)"
