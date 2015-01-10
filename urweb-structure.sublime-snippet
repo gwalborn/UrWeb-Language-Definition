@@ -5,6 +5,6 @@ struct
 end
 ]]></content>
     <tabTrigger>structure</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'structure' declaration</description>
+    <scope>source.ur</scope>
+    <description>UrWeb 'structure' declaration</description>
 </snippet>
