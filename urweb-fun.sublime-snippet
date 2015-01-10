@@ -3,6 +3,6 @@
 	${0:body}
 ]]></content>
     <tabTrigger>fun</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'fun' function</description>
+    <scope>source.ur</scope>
+    <description>UrWeb 'fun' function</description>
 </snippet>
