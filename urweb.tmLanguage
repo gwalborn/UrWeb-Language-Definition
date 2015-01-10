@@ -4,22 +4,21 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>ml</string>
-		<string>sml</string>
-		<string>cm</string>
-		<string>sig</string>
+		<string>ur</string>
+		<string>urs</string>
+		<string>urp</string>
 	</array>
 	<key>name</key>
-	<string>SML</string>
+	<string>UrWeb</string>
 	<key>patterns</key>
 	<array>
 		<dict>
 			<key>comment</key>
-			<string>SML keywords</string>
+			<string>UrWeb keywords</string>
 			<key>match</key>
 			<string>\b(EQUAL|GREATER|LESS|NONE|SOME|abstraction|abstype|and|andalso|array|as|before|bool|case|char|datatype|do|else|end|eqtype|exception|exn|false|fn|fun|functor|handle|if|in|include|infix|infixr|int|let|list|local|nil|nonfix|not|o|of|op|open|option|orelse|overload|print|raise|real|rec|ref|sharing|sig|signature|string|struct|structure|substring|then|true|type|unit|val|vector|where|while|with|withtype|word)\b</string>
 			<key>name</key>
-			<string>keyword.source.sml</string>
+			<string>keyword.source.ur</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -27,7 +26,7 @@
 			<key>match</key>
 			<string>\b[0-9]+\b</string>
 			<key>name</key>
-			<string>constant.numeric.sml</string>
+			<string>constant.numeric.ur</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -35,7 +34,7 @@
 			<key>match</key>
 			<string>\b[A-Z]([A-z0-9]*)\b</string>
 			<key>name</key>
-			<string>support.type.sml</string>
+			<string>support.type.ur</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -43,7 +42,7 @@
 			<key>match</key>
 			<string>"(\\"|[^"])*"</string>
 			<key>name</key>
-			<string>string.sml</string>
+			<string>string.ur</string>
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -53,7 +52,7 @@
 			<key>end</key>
 			<string>\*\)</string>
 			<key>name</key>
-			<string>comment.sml</string>
+			<string>comment.ur</string>
 		</dict>
 		<dict>
 			<key>comment</key>
@@ -61,12 +60,12 @@
 			<key>match</key>
 			<string>(\(\)|=&gt;|::|\[\]|-&gt;|:&gt;)</string>
 			<key>name</key>
-			<string>constant.character.sml</string>
+			<string>constant.character.ur</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.sml</string>
+	<string>source.ur</string>
 	<key>uuid</key>
-	<string>c75fce86-de5e-40f0-b42e-1504c17b784a</string>
+	<string>65be9466-98df-11e4-b8aa-123b93f75cba</string>
 </dict>
 </plist>
