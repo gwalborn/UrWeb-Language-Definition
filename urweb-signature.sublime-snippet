@@ -5,6 +5,6 @@ sig
 end
 ]]></content>
     <tabTrigger>signature</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'signature' declaration</description>
+    <scope>source.ur</scope>
+    <description>UrWeb 'signature' declaration</description>
 </snippet>
