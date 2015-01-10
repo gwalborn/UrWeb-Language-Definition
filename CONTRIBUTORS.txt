@@ -2,4 +2,5 @@ This file contains a list of people who have made significant contributions
 to this project. You are encouraged to add your name to this file. Please 
 keep it sorted by year, descending, then by first name.
 
+Gary Walborn (gwalborn@gmail.com), 2015
 Sean James (seanjames777@gmail.com), 2013
