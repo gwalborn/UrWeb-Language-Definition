@@ -3,6 +3,6 @@
 	${2:body}
 ]]></content>
     <tabTrigger>fn</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'fn' anonymous function</description>
+    <scope>source.ur</scope>
+    <description>UrWeb 'fn' anonymous function</description>
 </snippet>
