@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Comments</string>
 	<key>scope</key>
-	<string>source.sml</string>
+	<string>source.ur</string>
 	<key>settings</key>
 	<dict>
 		<key>shellVariables</key>
@@ -25,6 +25,6 @@
 		</array>
 	</dict>
 	<key>uuid</key>
-	<string>A67A8BD9-A951-406F-9175-018DX4B52FD1</string>
+	<string>65be933a-98df-11e4-b8aa-123b93f75cba</string>
 </dict>
 </plist>
