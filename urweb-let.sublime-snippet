@@ -6,6 +6,6 @@ in
 end
 ]]></content>
     <tabTrigger>let</tabTrigger>
-    <scope>source.sml</scope>
-    <description>SML 'let' block</description>
+    <scope>source.ur</scope>
+    <description>Ur/Web 'let' block</description>
 </snippet>
